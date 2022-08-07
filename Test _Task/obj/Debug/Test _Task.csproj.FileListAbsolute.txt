@@ -1,0 +1,10 @@
+E:\Проекты C#\Test _Task\Test _Task\bin\Debug\Test _Task.exe.config
+E:\Проекты C#\Test _Task\Test _Task\bin\Debug\Test _Task.exe
+E:\Проекты C#\Test _Task\Test _Task\bin\Debug\Test _Task.pdb
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test _Task.csproj.AssemblyReference.cache
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test__Task.Form1.resources
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test__Task.Properties.Resources.resources
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test _Task.csproj.GenerateResource.cache
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test _Task.csproj.CoreCompileInputs.cache
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test _Task.exe
+E:\Проекты C#\Test _Task\Test _Task\obj\Debug\Test _Task.pdb
